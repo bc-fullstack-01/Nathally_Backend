@@ -1,0 +1,16 @@
+{
+  "name": "backend_nathally",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-fs-static.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
